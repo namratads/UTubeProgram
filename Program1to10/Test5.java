@@ -9,10 +9,10 @@ public static void main(String[] args){
         int a = s.nextInt();
 
       if(a%2==0){
-           System.out.println("Given number " + a + "is " + "Even");
+           System.out.println("Given number " + a + " is " + "Even");
        }else
        {
-           System.out.println("Given number " + a + "is " + "Odd");
+           System.out.println("Given number " + a + " is " + "Odd");
        }
 }
 }

@@ -1,0 +1,26 @@
+project=an application which is developed foe a specific user
+
+product=an application which is developed for entire market
+
+Defect in 3 different termonilogies:
+
+1)error = while developing the application , if Developer finds any mistake.
+
+2)defect/bug = After development,while testing if Tester finds any mistake(expected value not equal to the acaul value)
+
+3)failure = During Customer utilization, if customer finds any mistake
+
+Web application = an application which works only with internet
+
+Window application = an application which works with or without internet
+
+TypesOfTesting ::
+Manual = validating any application only with human efforts and Automation
+
+Automation = validating any application only with help of tools
+
+SDLC(software development life cycle) :
+----------------------------------------
+
+
+
